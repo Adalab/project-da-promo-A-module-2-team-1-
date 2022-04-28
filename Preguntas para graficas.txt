@@ -1,0 +1,9 @@
+Preguntas:
+
+-Como nuestro cliente es ADALAB, hacer todas los estadísticos con perspectiva de género (M vs F)
+-¿Cuáles son las industrias con mejores salarios? 
+-¿Hay diferencias entre el salario de las mujeres y los hombres en esa industria?
+-Flamenco da la cara
+-Países con % mayor de mujeres en Tech
+-Idioma predominante en general, predominante en mujeres.
+-rangos de edad y como avanza el % en los últimos 20 años.

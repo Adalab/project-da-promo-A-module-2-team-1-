@@ -1,9 +1,18 @@
 Preguntas:
 
 -Como nuestro cliente es ADALAB, hacer todas los estadísticos con perspectiva de género (M vs F)
--¿Cuáles son las industrias con mejores salarios? 
--¿Hay diferencias entre el salario de las mujeres y los hombres en esa industria?
+La primera diapositiva
+- La distribución total (M vs F). Determinar si hay alguna diferencia significativa. 
+- Países con % mayor de mujeres en Tech
+- Industrias con %mayor de mujeres
+- Por tamaño de empresas ver la contratación de mujeres (las empresas grandes contratan más mujeres o no es relevante)
+- Idioma predominante en general, predominante en mujeres.
+- Estaría muy bien encontrar la pregunta donde esta la mayor diferencia entre hombres y mujeres ... pero no se muy bien como sacar esto. Creo q hay algo que te gráfica todas las columnas... 
+
+La segunda diapositiva
+- ¿Cuáles son las industrias con mejores salarios? ¿Hay diferencias entre el salario de las mujeres y los hombres en esa industria?
 -Flamenco da la cara
--Países con % mayor de mujeres en Tech
--Idioma predominante en general, predominante en mujeres.
 -rangos de edad y como avanza el % en los últimos 20 años.
+Tercera diapositiva
+- Diferencias entre las herramientas usadas por hombres y las herramientas usadas por mujeres. (¿hay diferencia?). Esto podría ser útil para adalab para ver si deben enseñar nuevas herramientas a las chicas. 
+- Diferencias entre mujeres y hombres que trabajan con machine learning. 

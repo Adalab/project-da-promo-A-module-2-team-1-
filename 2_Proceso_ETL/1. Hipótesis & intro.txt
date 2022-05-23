@@ -1,0 +1,26 @@
+Preguntas:
+
+-Como nuestro cliente es ADALAB, hacer todas los estadísticos con perspectiva de género (M vs F)
+La primera diapositiva
+- La distribución total (M vs F). Determinar si hay alguna diferencia significativa. 
+- Países con % mayor de mujeres en Tech
+- Industrias con %mayor de mujeres
+- Por tamaño de empresas ver la contratación de mujeres (las empresas grandes contratan más mujeres o no es relevante)
+- Idioma predominante en general, predominante en mujeres.
+- Estaría muy bien encontrar la pregunta donde esta la mayor diferencia entre hombres y mujeres ... pero no se muy bien como sacar esto. Creo q hay algo que te gráfica todas las columnas... 
+
+La segunda diapositiva
+- ¿Cuáles son las industrias con mejores salarios? ¿Hay diferencias entre el salario de las mujeres y los hombres en esa industria?
+-Flamenco da la cara
+-rangos de edad y como avanza el % en los últimos 20 años.
+Tercera diapositiva
+- Diferencias entre las herramientas usadas por hombres y las herramientas usadas por mujeres. (¿hay diferencia?). Esto podría ser útil para adalab para ver si deben enseñar nuevas herramientas a las chicas. 
+- Diferencias entre mujeres y hombres que trabajan con machine learning. 
+
+#INTRO
+¿Quiénes somos? Brave, un equipo de data analysts.
+¿Quién es nuestro cliente? Adalab, una empresa social de formación a mujeres
+¿Cuál es nuestro objetivo? Ofrecer al Adalab la solución para su problema actual -> Necesitan las conclusiones de los datos obtenidos en una encuesta sobre data analyst.
+¿Qué problema tiene? Los datos están sucios, en diferentes formatos y nosotras estamos en proceso de crear un documento que aglutine los resultados, y nos permita mostrar una serie de conclusiones que ayuden a adalab en su toma de decisiones.
+Conociendo al cliente, sabemos que le interesa obtener unos datos sobre el ambiente del data analysis con perspectiva de género. Los datos ilustrarán a preguntas como estas:
+Preguntas en el txt
